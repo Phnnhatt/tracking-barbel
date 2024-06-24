@@ -4,3 +4,5 @@ You can use this template to structure your Python data science projects. It is 
 
 We do it base on @daveebbelaar playlist
 ##Resource: https://www.youtube.com/@daveebbelaar
+
+This project run on Python 3.8 Python Enviroment
